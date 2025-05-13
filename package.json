@@ -1,0 +1,25 @@
+{
+  "name": "labs",
+  "version": "1.0.0",
+  "description": "Repositório utilizado para armazenamento de transcrições de tickets de suporte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EiCenaCSF/Labs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EiCenaCSF/Labs/issues"
+  },
+  "homepage": "https://github.com/EiCenaCSF/Labs#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^1.4.5-lts.2"
+  }
+}
